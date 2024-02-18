@@ -1,6 +1,7 @@
-# Bookings and Reservations
-This the repository for my  booking and reservation
-Built in Go version go 1.22.0
-Use The [chi router] (https://	github.com/go-chi/chi v1.5.5)
-use The [alex edwards scs](https://github.com/alexedwards/scs/v2)
-use The [nosurf](htt://	github.com/justinas/nosurf v1.1.1)
+Bookings and Reservations
+The repository for Building Modern Web Applications with Go.
+
+Built in Go version 1.15
+Uses the chi router
+Uses alex edwards scs session management
+Uses nosurf
